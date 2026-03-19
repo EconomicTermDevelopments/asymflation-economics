@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Asymflation: A Computational Framework for Macroeconomics"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/asymflation-economics"
+keywords:
+  - economics
+  - asymflation
+  - macroeconomics
+  - computational-framework
+  - emerging-terminology
+abstract: "Asymflation is defined here as asymmetric inflation dynamics where prices rise rapidly in response to cost shocks but decline slowly or incompletely when costs fall, creating persistent upward pressure on the aggregate price level through downward price rigidities and behavioral asymmetries in price adjustment. This paper develops Asymflation as a computational framework for macroeconomics by linking the concept to asymmetric inflation dynamics under cost shocks, formalizing faster upward pass-through than downward adjustment in prices, and operationalizing Asymflation with a transparent index built from channels such as input cost shock, price increase speed, price decrease speed, and inflation expectations, while also showing how Asymflation can support comparative statics, empirical measurement, and policy simulation in reproducible economic research."

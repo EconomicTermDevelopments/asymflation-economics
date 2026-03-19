@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Asymflation",
+  "description": "Asymmetric inflation dynamics where prices rise rapidly in response to cost shocks but decline slowly or incompletely when costs fall, creating persistent upward pressure on the aggregate price level through downward price rigidities and behavioral asymmetries in price adjustment.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "D40"
+}

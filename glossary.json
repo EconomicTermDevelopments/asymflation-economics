@@ -1,0 +1,26 @@
+{
+  "term": "Asymflation",
+  "definition": "Asymmetric inflation dynamics where prices rise rapidly in response to cost shocks but decline slowly or incompletely when costs fall, creating persistent upward pressure on the aggregate price level through downward price rigidities and behavioral asymmetries in price adjustment.",
+  "etymology": "Portmanteau of \"asymmetric\" and \"inflation.\" The term links asymmetric price adjustment dynamics with inflation behavior and parallels established forms such as \"stagflation\" and \"disinflation.\"",
+  "field": "Macroeconomics",
+  "subfields": [
+    "Macroeconomics",
+    "Monetary Economics / Price Theory",
+    "Behavioral Economics"
+  ],
+  "jel_codes": [
+    "D40",
+    "E31",
+    "E52"
+  ],
+  "synonyms": [
+    "asymmetric inflation persistence"
+  ],
+  "related_concepts": [
+    "Rockets and feathers",
+    "Price rigidity",
+    "Cost pass-through asymmetry"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}
